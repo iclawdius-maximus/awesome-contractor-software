@@ -39,6 +39,7 @@
 ## CRM
 - [ServiceTitan](https://www.servicetitan.com) - Home service CRM
 - [Jobber](https://getjobber.com) - Service business CRM & scheduling
+- [Commandra](https://commandra.io) - Multi-tenant CRM for home service contractors with AI lead response, automated follow-up, review automation, scheduling, and invoicing
 
 ## Learning & Training
 - [BuiltRight Academy](https://builtright-academy.vercel.app) - Free business guides, templates, and tools for tradespeople
